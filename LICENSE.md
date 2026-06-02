@@ -1,4 +1,4 @@
-# 
+# Élite OBS Studio extensions pour Mac OS | Automatique OBS Studio extensions pour PC Windows. Avec amélioration vocale et contrôle du débit binaire — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
